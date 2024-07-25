@@ -13,3 +13,6 @@ The companies are interested in answering two questions:
 With the second question in mind, we normally do an A/B test. The majority of the people will be exposed to ads (the experimental group). And a small portion of people (the control group) would instead see a Public Service Announcement (PSA) (or nothing) in the exact size and place the ad would normally be.
 
 The idea of the dataset is to analyze the groups, find if the ads were successful, how much the company can make from the ads, and if the difference between the groups is statistically significant.
+
+So, I have worked on the dataset, and drew the solution for all questions!
+Open the .ipynb file for the desired solutions.
